@@ -83,6 +83,7 @@ fi
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
+# phabricator's arcanist tool
 export PATH="/Users/lyudison/workspace/arcanist/arcanist/bin:${PATH}"
 
 # use macvim in default
