@@ -1,5 +1,5 @@
 # Path to your oh-my-zsh installation.
-export ZSH=/Users/lyudison/.oh-my-zsh
+export ZSH=~/.oh-my-zsh
 
 # Set name of the theme to load.
 # Look in ~/.oh-my-zsh/themes/
@@ -84,7 +84,7 @@ fi
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 # phabricator's arcanist tool
-export PATH="/Users/lyudison/workspace/arcanist/arcanist/bin:${PATH}"
+export PATH="~/workspace/arcanist/arcanist/bin:${PATH}"
 
 # use macvim in default
 alias vi='mvim -v'
