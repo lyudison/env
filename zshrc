@@ -93,3 +93,9 @@ alias vim='mvim -v'
 # set vim as default editor
 export VISUAL="mvim -v"
 export EDITOR="$VISUAL"
+
+# MC Dev Env settings for Makefile in egret-ide/bin/Makefile to run
+export KITTEN="$HOME/Workspace/egret-ide"
+export BLOCKLYCRAFT="$HOME/Workspace/Bcraft"
+export MC_SERVER_DIR="$HOME/Workspace/mc-server"
+export LODASH="$HOME/Workspace/egret-ide/libs/lodash/lodash.js"
