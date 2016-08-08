@@ -43,6 +43,9 @@ Plugin 'Valloric/YouCompleteMe'
 " Syntax highlight for JSX
 Plugin 'pangloss/vim-javascript'
 Plugin 'mxw/vim-jsx'
+" Syntax highlight for Markdown
+Plugin 'godlygeek/tabular'
+Plugin 'plasticboy/vim-markdown'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
