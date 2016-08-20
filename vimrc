@@ -87,9 +87,9 @@ set shiftwidth=2
 " airline: show status bar all the time
 set laststatus=2
 
-" Enable HTML tags generation
-let g:user_emmet_install_global = 0
-autocmd FileType html,css EmmetInstall
+" Enable just for html/css
+" let g:user_emmet_install_global = 0
+" autocmd FileType html,css EmmetInstall
 
 " Autocomplete for js libs
 let g:used_javascript_libs = 'angularjs, angularui, angularrouter'
@@ -116,3 +116,6 @@ let mapleader = ','
 " Quickfix window
 autocmd QuickFixCmdPost [^l]* nested cwindow
 autocmd QuickFixCmdPost    l* nested lwindow
+
+" Enable JSX highlighting and indenting for all files
+let g:jsx_ext_required = 0
