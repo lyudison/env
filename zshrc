@@ -84,7 +84,7 @@ fi
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 # phabricator's arcanist tool
-export PATH="$HOME/Workspace/arcanist/arcanist/bin:${PATH}"
+# export PATH="$HOME/Workspace/arcanist/arcanist/bin:${PATH}"
 
 # use macvim in default
 alias vi='mvim -v'
