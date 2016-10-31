@@ -119,3 +119,7 @@ autocmd QuickFixCmdPost    l* nested lwindow
 
 " Enable JSX highlighting and indenting for all files
 let g:jsx_ext_required = 0
+
+" Do not ask for loading .ycm_extra_conf.py file every time opening *.cpp
+let g:ycm_confirm_extra_conf = 0
+" let g:ycm_extra_conf_globlist = ['~/Workspace/**/*']
