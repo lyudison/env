@@ -99,3 +99,6 @@ export KITTEN="$HOME/Workspace/egret-ide"
 export BLOCKLYCRAFT="$HOME/Workspace/Bcraft"
 export MC_SERVER_DIR="$HOME/Workspace/mc-server"
 export LODASH="$HOME/Workspace/egret-ide/libs/lodash/lodash.js"
+
+# compile cpp file with clang under c++11 by default
+alias c++='c++ -std=c++11'
