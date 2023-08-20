@@ -87,11 +87,11 @@ source $ZSH/oh-my-zsh.sh
 # export PATH="$HOME/Workspace/arcanist/arcanist/bin:${PATH}"
 
 # use macvim in default
-alias vi='mvim -v'
-alias vim='mvim -v'
+# alias vi='mvim -v'
+# alias vim='mvim -v'
 
 # set vim as default editor
-export VISUAL="mvim -v"
+export VISUAL="vim -v"
 export EDITOR="$VISUAL"
 
 # MC Dev Env settings for Makefile in egret-ide/bin/Makefile to run
