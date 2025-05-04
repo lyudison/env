@@ -1,9 +1,5 @@
-Env
-====
-The env I use in my Mac OS X and WSL.
-
 # Overview
-Center around VSCode and Git repo for coding, build, execution, etc.
+Center around VSCode and Git repo for coding, build, execution, etc. across platforms (my Mac OS X and WSL)
 
 # Setup for Mac OS X
  - Install `xcode` to get C++ and Python enviroment
