@@ -16,8 +16,11 @@ Center around VSCode and Git repo for coding, build, execution, etc. across plat
 # Setup for VScode
  - Copy `settings.json` and `keybindings.json` to VScode directory. See https://stackoverflow.com/a/49706409 for different systems.
  - Install extensions (e.g. formatter)
-   - Gemini CLI
    - Gemini Code Assist
+
+# Setup for CLI
+ - Gemini CLI
+ - oh my zsh (simpliest)
 
 # Appendix
 ## Stale setup
